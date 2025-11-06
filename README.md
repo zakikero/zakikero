@@ -2,7 +2,7 @@
 
 Backend & platform‑oriented SWE student @ Polytechnique Montréal (Dec 2026). I ship fast, reliable software.
 
-— Focus: Kotlin/Spring Boot, GraphQL, Node/NestJS • Open to backend/full‑stack internships
+Strengths: systems design, performance & reliability, real‑time/concurrency, data modeling, embedded control
 
 ---
 
