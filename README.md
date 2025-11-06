@@ -2,7 +2,7 @@
 
 **Enthusiastic and results-oriented Software Engineer with a Bachelor's degree in Software Engineering from Polytechnique Montréal.**
 
-- 🔭 I’m currently working at **Intact** as a Software Developer.
+- 🔭 Worked at **Intact** as a Software Developer.
 - 🌱 I’m passionate about creating innovative solutions and continuously learning new technologies.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/zakaria-kerouani-69a127293/)
 
