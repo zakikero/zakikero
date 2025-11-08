@@ -8,10 +8,10 @@ Strengths: systems design, real‑time/concurrency, data modeling, embedded cont
 
 ## Highlights ⚡
 
-- 15× faster GraphQL responses via a high‑performance data layer (Intact)
+- 13× faster GraphQL responses via a high‑performance data layer (Intact)
 - Shipped policy features on Kotlin/Spring Boot, boosting backend throughput (Intact)
-- Robotic arm control: +25% precision, −50% downtime with resilient firmware (HEKA)
-- Complex React components contributing to +20% user satisfaction (FivesquareDesign)
+- Robotic arm control: +23% precision, −51% downtime with resilient firmware (HEKA)
+- Complex React components contributing to +25% user satisfaction (FivesquareDesign)
 
 ## Projects 🧪
 
@@ -20,9 +20,9 @@ Strengths: systems design, real‑time/concurrency, data modeling, embedded cont
 
 ## Stack 🧰
 
-- Backend: Kotlin/Spring Boot, Node/NestJS, GraphQL, PostgreSQL, MongoDB, Kafka
+- Backend: Kotlin/Spring Boot, Node/NestJS, GraphQL, PostgreSQL, MongoDB, Kafka, RabbitMq
 - Frontend: React, Angular, React Native, Qt
-- Languages/Tools: Java, TypeScript/JavaScript, Python, C/C++, SQL, AWS, GCP, Git, Postman, Datadog
+- Languages/Tools: Java, TypeScript/JavaScript, Python, C/C++, SQL, AWS, GCP, Git, Curl, Datadog
 
 ## Experience 💼
 
