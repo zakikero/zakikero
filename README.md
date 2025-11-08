@@ -15,8 +15,8 @@ Strengths: systems design, real‑time/concurrency, data modeling, embedded cont
 
 ## Projects 🧪
 
-- NG Battles — NestJS + MongoDB backend for multiplayer; ~20% lower server load, ~15% better gameplay perf
-- discreteChat — Java + WebSockets; threaded, low‑latency broadcasts for multi‑user rooms
+- [NG Battles](https://github.com/zakikero/NG-Battles) — NestJS + MongoDB backend for multiplayer; ~20% lower server load, ~15% better gameplay perf
+- [discreteChat](https://github.com/zakikero/Live-discreteChat-App) — Java + WebSockets; threaded, low‑latency broadcasts for multi‑user rooms
 
 ## Stack 🧰
 
