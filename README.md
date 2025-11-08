@@ -2,7 +2,7 @@
 
 Backend & platform‑oriented SWE student @ Polytechnique Montréal (Dec 2026). I ship fast, reliable software.
 
-Strengths: systems design, performance & reliability, real‑time/concurrency, data modeling, embedded control
+Strengths: systems design, real‑time/concurrency, data modeling, embedded control, performance & reliability
 
 ---
 
