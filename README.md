@@ -11,6 +11,7 @@
 Backend & platform‑oriented SWE student @ Polytechnique Montréal (Dec 2026). I ship fast, reliable software.
 
 **Strengths**: systems design, performance & reliability, real‑time/concurrency, data modeling, embedded control
+Strengths: systems design, real‑time/concurrency, data modeling, embedded control, performance & reliability
 
 ---
 
@@ -34,11 +35,17 @@ Backend & platform‑oriented SWE student @ Polytechnique Montréal (Dec 2026). 
 - 💼 Shipped policy features on Kotlin/Spring Boot, boosting backend throughput (Intact)
 - 🤖 Robotic arm control: +25% precision, −50% downtime with resilient firmware (HEKA)
 - 🎨 Complex React components contributing to +20% user satisfaction (FivesquareDesign)
+- 13× faster GraphQL responses via a high‑performance data layer (Intact)
+- Shipped policy features on Kotlin/Spring Boot, boosting backend throughput (Intact)
+- Robotic arm control: +23% precision, −51% downtime with resilient firmware (HEKA)
+- Complex React components contributing to +25% user satisfaction (FivesquareDesign)
 
 ## 🧪 Projects
 
 - **NG Battles** — NestJS + MongoDB backend for multiplayer; ~20% lower server load, ~15% better gameplay perf
 - **discreteChat** — Java + WebSockets; threaded, low‑latency broadcasts for multi‑user rooms
+- [NG Battles](https://github.com/zakikero/NG-Battles) — NestJS + MongoDB backend for multiplayer; ~20% lower server load, ~15% better gameplay perf
+- [discreteChat](https://github.com/zakikero/Live-discreteChat-App) — Java + WebSockets; threaded, low‑latency broadcasts for multi‑user rooms
 
 ## 🧰 Tech Stack
 
@@ -84,6 +91,17 @@ Backend & platform‑oriented SWE student @ Polytechnique Montréal (Dec 2026). 
 
 - 🏢 **Intact** — Backend Software Developer Intern (Jan–Aug 2025), Montréal
 - 🏢 **FivesquareDesign** — Full‑stack Developer Intern (Feb 2022–Dec 2023), Montréal
+
+## Stack 🧰
+
+- Backend: Kotlin/Spring Boot, Node/NestJS, GraphQL, PostgreSQL, MongoDB, Kafka, RabbitMq
+- Frontend: React, Angular, React Native, Qt
+- Languages/Tools: Java, TypeScript/JavaScript, Python, C/C++, SQL, AWS, GCP, Git, Curl, Datadog
+
+## Experience 💼
+
+- Intact — Backend Software Developer Intern (Jan–Aug 2025), Montréal
+- FivesquareDesign — Full‑stack Developer Intern (Feb 2022–Dec 2023), Montréal
 
 ## 🎓 Education
 
