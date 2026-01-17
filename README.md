@@ -2,26 +2,20 @@
 
 Backend & platform‑oriented SWE student @ Polytechnique Montréal (Dec 2026). I ship fast, reliable software.
 
-**Strengths**: systems design, performance & reliability, real‑time/concurrency, data modeling, embedded control
+## 💻 Skills & Technologies
 
-## ⚡ Highlights
+**Core Competencies**: Systems Design • Performance & Reliability • Real‑time/Concurrency • Data Modeling • Embedded Control
 
-- 🚀 15× faster GraphQL responses via high‑performance data layer (Intact)
-- 💼 Shipped policy features on Kotlin/Spring Boot, boosting backend throughput (Intact)
-- 🤖 Robotic arm control: +25% precision, −50% downtime with resilient firmware (HEKA)
-- 🎨 Complex React components contributing to +20% user satisfaction (FivesquareDesign)
+**Backend**: Kotlin, Spring Boot, Node.js, NestJS, GraphQL, REST APIs  
+**Databases**: PostgreSQL, MongoDB, Kafka, RabbitMQ  
+**Frontend**: React, Angular, React Native, Qt  
+**Languages**: Java, TypeScript, JavaScript, Python, C, C++, SQL  
+**DevOps & Tools**: AWS, GCP, Git, Datadog, Postman
 
 ## 🧪 Projects
 
 - [NG Battles](https://github.com/zakikero/NG-Battles) — NestJS + MongoDB backend for multiplayer; ~20% lower server load
 - [discreteChat](https://github.com/zakikero/Live-discreteChat-App) — Java + WebSockets; threaded, low‑latency broadcasts for multi‑user rooms
-
-## 🧰 Tech Stack
-
-**Backend**: Kotlin/Spring Boot, Node/NestJS, GraphQL, PostgreSQL, MongoDB, Kafka  
-**Frontend**: React, Angular, React Native, Qt  
-**Languages**: Java, TypeScript/JavaScript, Python, C/C++  
-**DevOps**: AWS, GCP, Git, Datadog
 
 ## 💼 Experience
 
