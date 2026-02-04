@@ -1,6 +1,6 @@
 # Hi there, I'm Zakaria Kerouani 👋
 
-Backend & platform‑oriented SWE student @ Polytechnique Montréal (May 2027). I ship fast, reliable software.
+SWE student @ Polytechnique Montréal (May 2027). I ship fast, reliable software.
 
 ## 💻 Skills & Technologies
 
