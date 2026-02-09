@@ -57,11 +57,6 @@ Systems Design  •  Performance & Reliability  •  Real‑time/Concurrency  �
 
 </div>
 
-## 🧪 Projects
-
-- [NG Battles](https://github.com/zakikero/NG-Battles) — NestJS + MongoDB backend for multiplayer; ~20% lower server load
-- [discreteChat](https://github.com/zakikero/Live-discreteChat-App) — Java + WebSockets; threaded, low‑latency broadcasts for multi‑user rooms
-
 ## 💼 Experience
 
 - **Intact** — Backend Software Developer Intern (Jan–Aug 2025), Montréal
