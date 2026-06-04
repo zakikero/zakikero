@@ -60,7 +60,7 @@ Systems Design  •  Performance & Reliability  •  Real‑time/Concurrency  �
 </div>
 
 ## 💼 Experience
-
+- **Ericsson** — POC software developer intern (May–Aug 2026), Montréal
 - **Intact** — Backend Software Developer Intern (Jan–Aug 2025), Montréal
 - **FivesquareDesign** — Full‑stack Developer Intern (Feb 2022–Dec 2023), Montréal
 
