@@ -1,6 +1,16 @@
-# Hi there, I'm Zakaria Kerouani 👋
+<p align="center">
+<img src="https://github.com/zakikero.png" alt="Zakaria Kerouani" width="120" height="120" />
+</p>
 
-SWE student @ Polytechnique Montréal (May 2027). I ship fast, reliable software.
+<h1 align="center">Hi, I’m Zakaria Kerouani</h1>
+
+<p align="center">SWE student @ Polytechnique Montréal (May 2027) · I ship fast, reliable software.</p>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/zakaria-kerouani-69a127293/">
+<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+</p>
 
 ## 💻 Skills & Technologies
 
@@ -8,9 +18,7 @@ SWE student @ Polytechnique Montréal (May 2027). I ship fast, reliable software
 
 ### 🎯 Core Competencies
 
-```
-Systems Design  •  Performance & Reliability  •  Real‑time/Concurrency  •  Data Modeling  •  Embedded Control
-```
+Systems Design · Performance & Reliability · Real‑time/Concurrency · Data Modeling · Embedded Control
 
 ### ⚙️ Backend & APIs
 
@@ -60,10 +68,7 @@ Systems Design  •  Performance & Reliability  •  Real‑time/Concurrency  �
 </div>
 
 ## 💼 Experience
+
 - **Ericsson** — POC software developer intern (May–Aug 2026), Montréal
 - **Intact** — Backend Software Developer Intern (Jan–Aug 2025), Montréal
 - **FivesquareDesign** — Full‑stack Developer Intern (Feb 2022–Dec 2023), Montréal
-
-## 📬 Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zakaria-kerouani-69a127293/)
