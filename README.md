@@ -1,7 +1,3 @@
-<p align="center">
-<img src="https://github.com/zakikero.png" alt="Zakaria Kerouani" width="120" height="120" />
-</p>
-
 <h1 align="center">Hi, I’m Zakaria Kerouani</h1>
 
 <p align="center">SWE student @ Polytechnique Montréal (May 2027) · I ship fast, reliable software.</p>
