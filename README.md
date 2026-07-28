@@ -1,7 +1,3 @@
-<p align="center">
-<img src="https://github.com/zakikero.png" alt="Zakaria Kerouani" width="120" height="120" />
-</p>
-
 <h1 align="center">Hi, I’m Zakaria Kerouani</h1>
 
 <p align="center">SWE student @ Polytechnique Montréal (May 2027) · I build software with a bias for clarity, reliability, and speed.</p>
@@ -16,23 +12,28 @@
 
 ## At a Glance
 
-<div style="width: 100%;">
-<div style="display: inline-block; vertical-align: top; width: 31%; margin-right: 2%;">
+<table border="0" cellspacing="0" cellpadding="0" role="presentation" width="100%">
+<tr>
+<td valign="top" width="33%">
 <strong>Systems-minded</strong><br/>
 I like software that stays predictable when load, latency, or concurrency get messy.
-</div><div style="display: inline-block; vertical-align: top; width: 31%; margin-right: 2%;">
+</td>
+<td valign="top" width="33%">
 <strong>Backend-first</strong><br/>
 Kotlin, Spring Boot, Node.js, GraphQL, PostgreSQL, and messaging systems.
-</div><div style="display: inline-block; vertical-align: top; width: 31%;">
+</td>
+<td valign="top" width="33%">
 <strong>Product-aware</strong><br/>
 I care about readable code, quick iteration, and practical trade-offs.
-</div>
-</div>
+</td>
+</tr>
+</table>
 
 ## Skills & Technologies
 
-<div style="width: 100%;">
-<div style="display: inline-block; vertical-align: top; width: 48%; margin-right: 2%; margin-bottom: 12px;">
+<table border="0" cellspacing="0" cellpadding="0" role="presentation" width="100%">
+<tr>
+<td valign="top" width="50%">
 
 <strong>Core Competencies</strong><br/>
 
@@ -42,13 +43,17 @@ Real-time/Concurrency<br/>
 Data Modeling<br/>
 Embedded Control
 
-</div><div style="display: inline-block; vertical-align: top; width: 48%; margin-bottom: 12px;">
+</td>
+<td valign="top" width="50%">
 
 <strong>Languages</strong><br/>
 
 Java · JavaScript · TypeScript · Python · Kotlin · C · C++ · Ruby · HTML5 · CSS3 · SQL
 
-</div><div style="display: inline-block; vertical-align: top; width: 48%; margin-right: 2%;">
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
 
 <strong>Backend & Data</strong><br/>
 
@@ -62,7 +67,8 @@ Java · JavaScript · TypeScript · Python · Kotlin · C · C++ · Ruby · HTML
 <img alt="Kafka" src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white" height="20" />
 <img alt="RabbitMQ" src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white" height="20" />
 
-</div><div style="display: inline-block; vertical-align: top; width: 48%;">
+</td>
+<td valign="top" width="50%">
 
 <strong>Frontend & Tools</strong><br/>
 
@@ -76,8 +82,9 @@ Java · JavaScript · TypeScript · Python · Kotlin · C · C++ · Ruby · HTML
 <img alt="Datadog" src="https://img.shields.io/badge/Datadog-632CA6?style=flat&logo=datadog&logoColor=white" height="20" />
 <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" height="20" />
 
-</div>
-</div>
+</td>
+</tr>
+</table>
 
 ## Experience
 
