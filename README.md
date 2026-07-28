@@ -16,17 +16,17 @@
 
 ## At a Glance
 
-<table>
+<table border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none; width: 100%;">
 <tr>
-<td valign="top" width="33%">
+<td valign="top" width="33%" style="border: none; padding: 0 12px 0 0;">
 <strong>Systems-minded</strong><br/>
 I like software that stays predictable when load, latency, or concurrency get messy.
 </td>
-<td valign="top" width="33%">
+<td valign="top" width="33%" style="border: none; padding: 0 12px;">
 <strong>Backend-first</strong><br/>
 Kotlin, Spring Boot, Node.js, GraphQL, PostgreSQL, and messaging systems.
 </td>
-<td valign="top" width="33%">
+<td valign="top" width="33%" style="border: none; padding: 0 0 0 12px;">
 <strong>Product-aware</strong><br/>
 I care about readable code, quick iteration, and practical trade-offs.
 </td>
@@ -35,9 +35,9 @@ I care about readable code, quick iteration, and practical trade-offs.
 
 ## Skills & Technologies
 
-<table>
+<table border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none; width: 100%;">
 <tr>
-<td valign="top" width="50%">
+<td valign="top" width="50%" style="border: none; padding: 0 12px 12px 0;">
 
 <strong>Core Competencies</strong><br/>
 
@@ -48,7 +48,7 @@ Data Modeling<br/>
 Embedded Control
 
 </td>
-<td valign="top" width="50%">
+<td valign="top" width="50%" style="border: none; padding: 0 0 12px 12px;">
 
 <strong>Languages</strong><br/>
 
@@ -57,7 +57,7 @@ Java · JavaScript · TypeScript · Python · Kotlin · C · C++ · Ruby · HTML
 </td>
 </tr>
 <tr>
-<td valign="top" width="50%">
+<td valign="top" width="50%" style="border: none; padding: 0 12px 0 0;">
 
 <strong>Backend & Data</strong><br/>
 
@@ -72,7 +72,7 @@ Java · JavaScript · TypeScript · Python · Kotlin · C · C++ · Ruby · HTML
 <img alt="RabbitMQ" src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white" height="20" />
 
 </td>
-<td valign="top" width="50%">
+<td valign="top" width="50%" style="border: none; padding: 0 0 0 12px;">
 
 <strong>Frontend & Tools</strong><br/>
 
