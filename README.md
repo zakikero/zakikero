@@ -16,28 +16,23 @@
 
 ## At a Glance
 
-<table border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none; width: 100%;">
-<tr>
-<td valign="top" width="33%" style="border: none; padding: 0 12px 0 0;">
+<div style="width: 100%;">
+<div style="display: inline-block; vertical-align: top; width: 31%; margin-right: 2%;">
 <strong>Systems-minded</strong><br/>
 I like software that stays predictable when load, latency, or concurrency get messy.
-</td>
-<td valign="top" width="33%" style="border: none; padding: 0 12px;">
+</div><div style="display: inline-block; vertical-align: top; width: 31%; margin-right: 2%;">
 <strong>Backend-first</strong><br/>
 Kotlin, Spring Boot, Node.js, GraphQL, PostgreSQL, and messaging systems.
-</td>
-<td valign="top" width="33%" style="border: none; padding: 0 0 0 12px;">
+</div><div style="display: inline-block; vertical-align: top; width: 31%;">
 <strong>Product-aware</strong><br/>
 I care about readable code, quick iteration, and practical trade-offs.
-</td>
-</tr>
-</table>
+</div>
+</div>
 
 ## Skills & Technologies
 
-<table border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none; width: 100%;">
-<tr>
-<td valign="top" width="50%" style="border: none; padding: 0 12px 12px 0;">
+<div style="width: 100%;">
+<div style="display: inline-block; vertical-align: top; width: 48%; margin-right: 2%; margin-bottom: 12px;">
 
 <strong>Core Competencies</strong><br/>
 
@@ -47,17 +42,13 @@ Real-time/Concurrency<br/>
 Data Modeling<br/>
 Embedded Control
 
-</td>
-<td valign="top" width="50%" style="border: none; padding: 0 0 12px 12px;">
+</div><div style="display: inline-block; vertical-align: top; width: 48%; margin-bottom: 12px;">
 
 <strong>Languages</strong><br/>
 
 Java · JavaScript · TypeScript · Python · Kotlin · C · C++ · Ruby · HTML5 · CSS3 · SQL
 
-</td>
-</tr>
-<tr>
-<td valign="top" width="50%" style="border: none; padding: 0 12px 0 0;">
+</div><div style="display: inline-block; vertical-align: top; width: 48%; margin-right: 2%;">
 
 <strong>Backend & Data</strong><br/>
 
@@ -71,8 +62,7 @@ Java · JavaScript · TypeScript · Python · Kotlin · C · C++ · Ruby · HTML
 <img alt="Kafka" src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white" height="20" />
 <img alt="RabbitMQ" src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white" height="20" />
 
-</td>
-<td valign="top" width="50%" style="border: none; padding: 0 0 0 12px;">
+</div><div style="display: inline-block; vertical-align: top; width: 48%;">
 
 <strong>Frontend & Tools</strong><br/>
 
@@ -86,9 +76,8 @@ Java · JavaScript · TypeScript · Python · Kotlin · C · C++ · Ruby · HTML
 <img alt="Datadog" src="https://img.shields.io/badge/Datadog-632CA6?style=flat&logo=datadog&logoColor=white" height="20" />
 <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" height="20" />
 
-</td>
-</tr>
-</table>
+</div>
+</div>
 
 ## Experience
 
