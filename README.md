@@ -1,93 +1,70 @@
-<h1 align="center">Hi, I’m Zakaria Kerouani</h1>
-
-<p align="center">SWE student @ Polytechnique Montréal (May 2027) · I build software with a bias for clarity, reliability, and speed.</p>
+<h1 align="center">Hi, I’m Zakaria 👋</h1>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/zakaria-kerouani-69a127293/">
-<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
-</a>
-<img alt="Focus" src="https://img.shields.io/badge/Focus-Systems%20%2B%20Backend-0F172A?style=flat-square" />
-<img alt="Location" src="https://img.shields.io/badge/Based%20in-Montr%C3%A9al-334155?style=flat-square" />
+  I’m a software engineering student at Polytechnique Montréal.<br/>
+  I enjoy building backend systems, real-time apps, and software for robotics.<br/>
+  Feel free to explore my projects or say hello!
 </p>
 
-## At a Glance
+<p align="center">
+  <a href="https://zakikero.dev/"><img src="assets/icons/portfolio.svg" width="20" height="20" alt="" /> Portfolio</a> &nbsp;·&nbsp;
+  <a href="https://zakikero.dev/Zakaria_Kerouani_CV.pdf"><img src="assets/icons/resume.svg" width="20" height="20" alt="" /> Résumé</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/zakaria-kerouani-69a127293/"><img src="assets/icons/linkedin.svg" width="20" height="20" alt="" /> LinkedIn</a>
+</p>
 
-<table border="0" cellspacing="0" cellpadding="0" role="presentation" width="100%">
-<tr>
-<td valign="top" width="33%">
-<strong>Systems-minded</strong><br/>
-I like software that stays predictable when load, latency, or concurrency get messy.
-</td>
-<td valign="top" width="33%">
-<strong>Backend-first</strong><br/>
-Kotlin, Spring Boot, Node.js, GraphQL, PostgreSQL, and messaging systems.
-</td>
-<td valign="top" width="33%">
-<strong>Product-aware</strong><br/>
-I care about readable code, quick iteration, and practical trade-offs.
-</td>
-</tr>
-</table>
+## Skills
 
-## Skills & Technologies
+<p>
+  <strong>Backend &amp; data</strong><br/>
+  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-388E3C?style=flat-square&amp;logo=springboot&amp;logoColor=white" width="112" height="24" />
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-287A33?style=flat-square&amp;logo=nodedotjs&amp;logoColor=white" width="83" height="24" />
+  <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-B52C87?style=flat-square&amp;logo=graphql&amp;logoColor=white" width="92" height="24" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&amp;logo=postgresql&amp;logoColor=white" width="109" height="24" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-116149?style=flat-square&amp;logo=mongodb&amp;logoColor=white" width="97" height="24" />
+  <img alt="Kafka" src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&amp;logo=apachekafka&amp;logoColor=white" width="71" height="24" />
+</p>
 
-<table border="0" cellspacing="0" cellpadding="0" role="presentation" width="100%">
-<tr>
-<td valign="top" width="50%">
+<p>
+  <strong>Languages</strong><br/>
+  <img alt="Java" src="https://img.shields.io/badge/Java-B07219?style=flat-square&amp;logo=openjdk&amp;logoColor=white" width="64" height="24" />
+  <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&amp;logo=kotlin&amp;logoColor=white" width="71" height="24" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white" width="104" height="24" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" width="80" height="24" />
+  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&amp;logo=cplusplus&amp;logoColor=white" width="64" height="24" />
+</p>
 
-<strong>Core Competencies</strong><br/>
+<p>
+  <strong>Frontend</strong><br/>
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&amp;logo=react&amp;logoColor=61DAFB" width="71" height="24" />
+  <img alt="Angular" src="https://img.shields.io/badge/Angular-B52E31?style=flat-square&amp;logo=angular&amp;logoColor=white" width="85" height="24" />
+</p>
 
-Systems Design<br/>
-Performance & Reliability<br/>
-Real-time/Concurrency<br/>
-Data Modeling<br/>
-Embedded Control
+<p>
+  <strong>Cloud &amp; tools</strong><br/>
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=flat-square" width="42" height="24" />
+  <img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-3468D6?style=flat-square&amp;logo=googlecloud&amp;logoColor=white" width="121" height="24" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-C74836?style=flat-square&amp;logo=git&amp;logoColor=white" width="52" height="24" />
+</p>
 
-</td>
-<td valign="top" width="50%">
+<details>
+<summary>Full résumé skill list</summary>
 
-<strong>Languages</strong><br/>
+**Languages:** Java · JavaScript · TypeScript · Python · HTML · CSS · SQL · C · C++ · Kotlin · C# · Ruby
 
-Java · JavaScript · TypeScript · Python · Kotlin · C · C++ · Ruby · HTML5 · CSS3 · SQL
+**Backend & data:** Spring · Spring Boot · Node.js · NestJS · GraphQL · Ruby on Rails · FastAPI · PostgreSQL · MongoDB · Redis · Supabase · Kafka · RabbitMQ
 
-</td>
-</tr>
-<tr>
-<td valign="top" width="50%">
+**Frontend & mobile:** React · React Native · Angular · Next.js · Qt · Jetpack Compose
 
-<strong>Backend & Data</strong><br/>
+**Cloud & tools:** AWS · Google Cloud · Git · Postman · Datadog · Docker · Kubernetes · ArgoCD · Kiro
 
-<img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white" height="20" />
-<img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white" height="20" />
-<img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" height="20" />
-<img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" height="20" />
-<img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white" height="20" />
-<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" height="20" />
-<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" height="20" />
-<img alt="Kafka" src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white" height="20" />
-<img alt="RabbitMQ" src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white" height="20" />
+**Testing:** JUnit · Mockito
 
-</td>
-<td valign="top" width="50%">
+**AI & embedded:** Pipecat · PyTorch · TensorRT · Ollama · Llama · STM32 · PID control · Encoder feedback · UART
 
-<strong>Frontend & Tools</strong><br/>
-
-<img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" height="20" />
-<img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" height="20" />
-<img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB" height="20" />
-<img alt="Qt" src="https://img.shields.io/badge/Qt-41CD52?style=flat&logo=qt&logoColor=white" height="20" />
-<img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" height="20" />
-<img alt="GCP" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white" height="20" />
-<img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" height="20" />
-<img alt="Datadog" src="https://img.shields.io/badge/Datadog-632CA6?style=flat&logo=datadog&logoColor=white" height="20" />
-<img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" height="20" />
-
-</td>
-</tr>
-</table>
+</details>
 
 ## Experience
 
-- **Ericsson** — POC software developer intern (May–Aug 2026), Montréal
-- **Intact** — Backend Software Developer Intern (Jan–Aug 2025), Montréal
-- **FivesquareDesign** — Full-stack Developer Intern (Feb 2022–Dec 2023), Montréal
+- **Ericsson** — Software Developer Intern · 2026
+- **Intact** — Backend Software Developer Intern · 2025
+- **FivesquareDesign** — Full-stack Developer Intern · 2022–2023
