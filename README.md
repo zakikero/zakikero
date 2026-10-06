@@ -61,6 +61,7 @@
 **AI & embedded:** Pipecat · PyTorch · TensorRT · Ollama · Llama · STM32 · PID control · Encoder feedback · UART
 
 </details>
+
 ## Experience
 
 - **Ericsson** — Software Developer Intern · 2026
