@@ -21,7 +21,9 @@
   <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-B52C87?style=flat-square&amp;logo=graphql&amp;logoColor=white" width="92" height="24" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&amp;logo=postgresql&amp;logoColor=white" width="109" height="24" />
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-116149?style=flat-square&amp;logo=mongodb&amp;logoColor=white" width="97" height="24" />
+  <img alt="Redis" src="https://img.shields.io/badge/Redis-B52E31?style=flat-square&amp;logo=redis&amp;logoColor=white" width="68" height="24" />
   <img alt="Kafka" src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&amp;logo=apachekafka&amp;logoColor=white" width="71" height="24" />
+  <img alt="RabbitMQ" src="https://img.shields.io/badge/RabbitMQ-B94B00?style=flat-square&amp;logo=rabbitmq&amp;logoColor=white" width="97" height="24" />
 </p>
 
 <p>
@@ -31,6 +33,7 @@
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white" width="104" height="24" />
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" width="80" height="24" />
   <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&amp;logo=cplusplus&amp;logoColor=white" width="64" height="24" />
+  <img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D?style=flat-square&amp;logo=ruby&amp;logoColor=white" width="66" height="24" />
 </p>
 
 <p>
