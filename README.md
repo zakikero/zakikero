@@ -6,9 +6,9 @@
 </p>
 
 <p align="center">
-  <a href="https://zakikero.dev/">Portfolio</a> &nbsp;·&nbsp;
-  <a href="https://zakikero.dev/Zakaria_Kerouani_CV.pdf">Résumé</a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/zakaria-kerouani-69a127293/">LinkedIn</a>
+  <a href="https://zakikero.dev/"><img src="assets/icons/portfolio.svg" width="20" height="20" alt="" /> Portfolio</a> &nbsp;·&nbsp;
+  <a href="https://zakikero.dev/Zakaria_Kerouani_CV.pdf"><img src="assets/icons/resume.svg" width="20" height="20" alt="" /> Résumé</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/zakaria-kerouani-69a127293/"><img src="assets/icons/linkedin.svg" width="20" height="20" alt="" /> LinkedIn</a>
 </p>
 
 ## Skills
@@ -45,6 +45,22 @@
   <img alt="Git" src="https://img.shields.io/badge/Git-C74836?style=flat-square&amp;logo=git&amp;logoColor=white" width="52" height="24" />
 </p>
 
+<details>
+<summary>Full résumé skill list</summary>
+
+**Languages:** Java · JavaScript · TypeScript · Python · HTML · CSS · SQL · C · C++ · Kotlin · C# · Ruby
+
+**Backend & data:** Spring · Spring Boot · Node.js · NestJS · GraphQL · Ruby on Rails · FastAPI · PostgreSQL · MongoDB · Redis · Supabase · Kafka · RabbitMQ
+
+**Frontend & mobile:** React · React Native · Angular · Next.js · Qt · Jetpack Compose
+
+**Cloud & tools:** AWS · Google Cloud · Git · Postman · Datadog · Docker · Kubernetes · ArgoCD · Kiro
+
+**Testing:** JUnit · Mockito
+
+**AI & embedded:** Pipecat · PyTorch · TensorRT · Ollama · Llama · STM32 · PID control · Encoder feedback · UART
+
+</details>
 ## Experience
 
 - **Ericsson** — Software Developer Intern · 2026
