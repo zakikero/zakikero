@@ -1,8 +1,9 @@
-<h1 align="center">Zakaria Kerouani</h1>
+<h1 align="center">Hi, I’m Zakaria 👋</h1>
 
 <p align="center">
-  <strong>Backend &amp; systems</strong><br/>
-  Software engineering student at Polytechnique Montréal
+  I’m a software engineering student at Polytechnique Montréal.<br/>
+  I enjoy building backend systems, real-time apps, and software for robotics.<br/>
+  Feel free to explore my projects or say hello!
 </p>
 
 <p align="center">
